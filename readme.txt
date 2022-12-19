@@ -12,6 +12,8 @@ create a branch
 git checkout -b szk-tp main
 git branch
 
+afgjherwghsgafsdmDXCFVGYIBHOJNKML
+
 step 3:
 demo for jhu zie work
 git branch forJhuZie

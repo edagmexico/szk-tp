@@ -4,7 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: str
         """
-        codes = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        codes = "ABCDEFGHIJKLMNOPSDGANBSDGIUlguksdfQRSTUVWXYZ"
         res   = ""
         while n:
             n    = n - 1
