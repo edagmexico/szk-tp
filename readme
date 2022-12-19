@@ -1,2 +1,8 @@
+class Solution(obj):
+	def convertToTitle(self,columnNumber):
+	""
+	:type columNumber: int
+	:rtype: str
+	"""
 
-Hola mundo
+
