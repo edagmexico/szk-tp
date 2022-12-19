@@ -9,8 +9,6 @@ git push
 
 step 2: 
 create a branch
-git checkout -b szk-tp main
-git branch
 
 afgjherwghsgafsdmDXCFVGYIBHOJNKML
 

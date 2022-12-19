@@ -1,12 +1,16 @@
 class Solution(object):
-    def convertToTitle(self, n):
+    def ToTitle(self, n):
         """
         :type n: int
         :rtype: str
         """
+<<<<<<< HEAD
         codes = "ABCDEFGHIJKLMNOPSDGANBSDGIUlguksdfQRSTUVWXYZ"
+=======
+        codes = "holamund12345IJKLMNOPQRSTUVWXYZ"
+>>>>>>> c146368574ab5c76b77dabf588da2db835fadda2
         res   = ""
-        while n:
+         do
             n    = n - 1
             res  += codes[ n%26 ]
             n    //= 26
